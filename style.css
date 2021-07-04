@@ -27,7 +27,7 @@ h3{
 .design{
     color: red;
 }
-section{
+.flexible-container{
     display: flex;
     margin-bottom:  200px;
 }
