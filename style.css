@@ -88,3 +88,6 @@ h3{
 #dev{
     border-image: linear-gradient(#a200ff, #1100ff) 10;  
 }
+footer p{
+    text-align: center;
+}
